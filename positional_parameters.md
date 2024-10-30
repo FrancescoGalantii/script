@@ -1,4 +1,5 @@
-#spiegazione codice in merito allo script sui parametri posizionali
+#SPIEGAZIONE CODICE IN MERITO ALLO SCRIPT positional_parameters.sh
+
 la variabile dichiarata come MINPARAMS alla quale è stato assegnato il valore 10 rappresenta il numero minimo di parametri richiesti.
 
 Il primo echo mostra il nome dello script con il relativo percorso completo, mentre il secondo stampa solo il nome dello script
