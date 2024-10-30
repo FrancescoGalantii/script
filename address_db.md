@@ -1,4 +1,4 @@
-#SPIEGAZIONE DELLO SCRIPT ADDRESS_DB 
+# SPIEGAZIONE DELLO SCRIPT ADDRESS_DB 
 
 Con declare combinato all'opzione -A si dichiara un array associativo, in un array associativo le chiavi non devono essere numeri interi bensi possono essere stringhe, cio consente di associare chiavi coppia valore(es indirizzo=nome) 
 
