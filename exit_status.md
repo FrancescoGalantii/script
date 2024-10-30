@@ -1,3 +1,5 @@
+#SPIEGAZIONE DELLO SCRIPT exit_status.sh
+
 Il primo echo stampa a schermo hello quindi il suo codice di uscita sarà 0.
 l'echo successivo contiene $?, una variabile speciale in bash che contiene il codice di uscita del comando precedente quindi in questo caso 0.
 
