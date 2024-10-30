@@ -1,4 +1,4 @@
-#SPIEGAZIONE DELLO SCRIPT lavorazione_variabili.sh
+# SPIEGAZIONE DELLO SCRIPT lavorazione_variabili.sh
 
 il primo echo dopo il quale non segue nulla viene eseguito per migliorare la leggibilità dell'output.
 
