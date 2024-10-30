@@ -1,4 +1,4 @@
-#SPIEGAZIONE CODICE IN MERITO ALLO SCRIPT positional_parameters.sh
+# SPIEGAZIONE CODICE IN MERITO ALLO SCRIPT positional_parameters.sh
 
 la variabile dichiarata come MINPARAMS alla quale è stato assegnato il valore 10 rappresenta il numero minimo di parametri richiesti.
 
