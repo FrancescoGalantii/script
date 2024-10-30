@@ -1,3 +1,5 @@
+#SPIEGAZIONE DELLO SCRIPT lavorazione_variabili.sh
+
 il primo echo dopo il quale non segue nulla viene eseguito per migliorare la leggibilità dell'output.
 
 Successivamente viene assognato alla variabile a il valore di 879 seguito da un echo che stampa il valore della variabile utilizzando $a.
