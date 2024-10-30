@@ -1,3 +1,5 @@
+# SPIEGAZIONE CODICE SCRIPT progress_bar.sh
+
 Interval=1 definisce un intervallo di 1 secondo che verrà usato per la barra di progresso,
 il secondo interval invece con la sintassi long_interval=10 definisce un intervallo di 10 secondi per simulare un processo a lunga durata 
 
