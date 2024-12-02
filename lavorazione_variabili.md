@@ -11,3 +11,5 @@ Nel ciclo for vengono assegnati ad a vari valori 7,8,9,11 (for a in 7 8 9 11), a
 All'interno di questo script sono presenti numerosi echo che stampano una stringa vuota al fine di migliorare al massimo la leggibilità
 
 Successivamente con echo l'utente registra un nuovo valore per a che viene letto e assegnato tramite il comando read e verificato con l'ultimo echo che mi stampa l'ultimo valore di a. 
+
+## CIAO BELLO
