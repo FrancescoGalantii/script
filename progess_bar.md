@@ -39,8 +39,8 @@ nell'ultimo step è presente la simulazione di un processo a lungo termine che:
     echo -n 'Long-running process '
     sleep $long_interval
     echo ' Finished!'
--->*echo*;`stamperà un messaggio senza andare a capo(-n) dove avviserà che sta per partire un processo a lungo termine`
+-->`echo;stamperà un messaggio senza andare a capo(-n) dove avviserà che sta per partire un processo a lungo termine`
 
--->*sleep $long_interval*; `verrà effettuata una pausa di 10 secondi a simulare un processo a lungo termine`
+-->`sleep $long_interval; verrà effettuata una pausa di 10 secondi a simulare un processo a lungo termine`
 
--->*echo 'finished'*; `che stamperà in output la fine del processo`. 
+-->`echo 'finished'; che stamperà in output la fine del processo`. 
