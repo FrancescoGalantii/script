@@ -29,7 +29,9 @@ Il trap successivo definisce cosa fare quando si termina lo script:
 
     trap "echo !; kill -USR1 $pid; wait $pid"  EXIT 
 -->`echo stampa un punto esclamativo` 
+
 -->`kill -USR1 $pid; invia il segnale SIGUSR1 al processo in background per fermarlo`
+
 -->`wait $pid; che attende che il processo termini correttamente`.
 
 nell'ultimo step è presente la simulazione di un processo a lungo termine che:
@@ -38,5 +40,7 @@ nell'ultimo step è presente la simulazione di un processo a lungo termine che:
     sleep $long_interval
     echo ' Finished!'
 -->*echo*;`stamperà un messaggio senza andare a capo(-n) dove avviserà che sta per partire un processo a lungo termine`
+
 -->*sleep $long_interval*; `verrà effettuata una pausa di 10 secondi a simulare un processo a lungo termine`
+
 -->*echo 'finished'*; `che stamperà in output la fine del processo`. 
