@@ -16,6 +16,33 @@ La repository è organizzata nelle seguenti directory:
 - **verifica-kernel/**: Contiene uno script per verificare la versione del kernel del sistema.
 
 ---
+## Struttura della repository 
+```
+script
+├── README.md
+├── address_db
+│   ├── address_db.md
+│   └── address_db.sh
+├── exit_status
+│   ├── exit_status.md
+│   └── exit_status.sh
+├── lavorazione_variabili
+│   ├── lavorazione_variabili.md
+│   └── lavorazione_variabili.sh
+├── positional_parameters
+│   ├── positional_parameters.md
+│   └── positional_parameters.sh
+├── primoscript_step
+│   ├── primoscript_step.md
+│   └── primoscript_step.sh
+├── progress-bar
+│   ├── progess_bar.md
+│   └── progess_bar.sh
+└── verifica-kernel
+    └── verifica_kernel
+8 directories, 14 files
+```
+---
 ## Requisiti
 
 Per eseguire questi script, è necessario avere un ambiente Unix-like con Bash installato.
